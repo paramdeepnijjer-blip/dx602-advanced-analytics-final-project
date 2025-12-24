@@ -32,5 +32,4 @@ This project was completed as part of the DX602 course and emphasizes advanced a
 ## Files
 - `ParamFinalProjectDX602.ipynb` – Complete project notebook including analysis, code, and explanations
 
-## Notes
-This project reflects advanced coursework in analytics and demonstrates readiness for applied data analysis roles.
+
